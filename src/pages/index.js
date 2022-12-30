@@ -1,6 +1,6 @@
-import ExampleComponent from "../components/ExampleComponent";
-import Post from "../components/Post";
-import CreatePost from "../components/CreatePost";
+import ExampleComponent from '../components/ExampleComponent';
+import Post from '../components/Post';
+import CreatePost from '../components/CreatePost';
 
 export default function Home() {
   return (
